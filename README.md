@@ -17,6 +17,6 @@ usually found on the internet.
 
 *This Product Is not a Minecraft downloader, it's only a launcher.
 
-This Product is Not afilliated with Mojang or Microsoft, nor sponsored, supported or created.
+This Product is Not afilliated with Mojang or Microsoft, nor sponsored, supported, advertized or created.
 
 Regards, From The Lunar Software Corporation.
